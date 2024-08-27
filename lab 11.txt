@@ -1,0 +1,12 @@
+#task1
+array=np.zeros(10)
+print(array)
+array=np.ones(10)
+print(array)
+array=np.ones(10)*5
+print(array)
+
+#task 2
+import numpy as np 
+matrix=np.arrange(2,11).reshape)(3,3)
+print(matrix)
